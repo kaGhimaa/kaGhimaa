@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I am a final-year **Data Science and Engineering**
 - **Version Control**: Git & GitHub
 
 ### 📫 How to Reach Me
-- **Email**: karima.benzahra@example.com
-- **LinkedIn**: [Karima Benzahra](https://linkedin.com/in/karima-benzahra)
-- **Portfolio**: [My Portfolio Website](https://your-portfolio-link.com)
+- **Email**: k_benzahra@estin.dz
+- **LinkedIn**: [Karima Benzahra](https://www.linkedin.com/in/karima-benzahra-04216628b/)
+
 
 ---
 
