@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a final-year **Data Science and Engineering**
 
 ### 🚀 About Me
 
-- 🎓 **Education**: I'm currently in my final year pursuing a Master's degree in Data Science and Engineering.
+- 🎓 **Education**: I'm currently in my final year pursuing a Master's degree in Data Science 
 - 💻 **Skills**: 
   - Data Science & Machine Learning
   - Web Development (HTML, CSS, JS, Flask, ReactJS)
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a final-year **Data Science and Engineering**
 ### 🛠️ Tools & Technologies
 - **Languages**: Python, JavaScript, SQL, LaTeX
 - **Frameworks**: Flask, React
-- **Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy
+- **Libraries**: PyTorch, Scikit-learn, Pandas, NumPy
 - **Version Control**: Git & GitHub
 
 ### 📫 How to Reach Me
