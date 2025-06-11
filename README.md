@@ -1,31 +1,61 @@
-# Annyeonghaseyo, I'm Karima Benzahra 👋 
 
-Welcome to my GitHub profile! I am a final-year **Data Science and Engineering** student with a passion for **Data Science, Machine Learning, and Data Analytics**. I’m constantly working on improving myself, both personally and professionally, and striving to be the best version of me!
 
-### 🚀 About Me
+## 👋 Annyeonghaseyo, I'm Karima Benzahra
 
-- 🎓 **Education**: I'm currently in my final year pursuing a Master's degree in Data Science 
-- 💻 **Skills**: 
-  - Data Science & Machine Learning
-  - Web Development (HTML, CSS, JS, Flask, ReactJS)
-  - Data Collection (APIs, Web Scraping)
-  - Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)
-  - SQL & Databases
-- 🌱 **Learning**: I’m currently diving deep into **Deep Learning** and **Large Language Models (LLMs)**. 
-- 🤝 **Collaborations**: I'm actively seeking collaborations on **AI projects**. Feel free to reach out if you'd like to work together!
-- 🔍 **Interests**: AI, Data Engineering, Business Analytics, and exploring how data can impact the gaming industry.
+Welcome to my corner of the internet!
+I’m a final-year **Data Science & Engineering** student with a focus on **Machine Learning Deployment** — making models work not just in Jupyter notebooks, but *in the wild*.
 
-### 🛠️ Tools & Technologies
-- **Languages**: Python, JavaScript, SQL, LaTeX
-- **Frameworks**: Flask, React
-- **Libraries**: PyTorch, Scikit-learn, Pandas, NumPy
-- **Version Control**: Git & GitHub
-
-### 📫 How to Reach Me
-- **Email**: k_benzahra@estin.dz
-- **LinkedIn**: [Karima Benzahra](https://www.linkedin.com/in/karima-benzahra-04216628b/)
-
+I'm obsessed with taking ideas from notebooks to real-world systems — think FastAPI backends, Dockerized services, and LLM-powered pipelines.
+Currently building, breaking, and learning my way through **OCR systems**, **Arabic NLP**, and **infra that scales**.
 
 ---
 
-*"Don’t forget. You’re the one who gets to decide what you want. No one else"* – Ko Mun-yeong
+### 🚀 About Me
+
+* 🎓 **Education**: Master’s in Data Science @ ESTIN (Final Year)
+* 🔧 **Strengths**:
+
+  * Model Deployment (FastAPI, Docker, MongoDB, CI/CD)
+  * Deep Learning & LLMs
+  * Fullstack Apps (React, Flask)
+  * Data Analytics & Visualization
+  * Clean GitHub game 😎
+* 📚 **Current Focus**:
+
+  * Advanced LLM integration
+  * Kubernetes
+  * Monitoring with Grafana & Prometheus
+* 🤝 **Open to**:
+
+  * Collabs on AI/NLP/Infra projects
+  * Remote internships focused on MLOps or backend engineering
+* 🎮 **Curious About**:
+
+  * How data can power the gaming industry
+  * Scaling ML projects in production
+
+---
+
+### 🛠️ Tools & Tech
+
+| Category   | Tools                                       |
+| ---------- | ------------------------------------------- |
+| Languages  | Python, JavaScript, SQL, LaTeX              |
+| Frameworks | FastAPI, Flask, ReactJS                     |
+| Libraries  | PyTorch, HuggingFace, Scikit-learn, Pandas  |
+| DevOps     | Docker, GitHub Actions, MongoDB, Grafana    |
+| Extras     | Web scraping, APIs, Bash, Jupyter, Markdown |
+
+---
+
+### 📫 Reach Me
+
+* 📧 Email: **[k\_benzahra@estin.dz](mailto:k_benzahra@estin.dz)**
+* 💼 LinkedIn: [Karima Benzahra](https://www.linkedin.com/in/karima-benzahra-04216628b/)
+* 📖 Blog: [deployops.hashnode.dev](https://deployops.hashnode.dev)
+
+---
+
+> *"Don’t forget. You’re the one who gets to decide what you want. No one else."* — Ko Mun-yeong
+> *(and I’ve decided: I’m building and deploying tech that matters 💪)*
+
